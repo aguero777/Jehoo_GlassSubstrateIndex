@@ -122,6 +122,9 @@
 * Epochs: 10, Batch size: 128
 * 모델은 훈련을 통해 𝑆 , 𝐾 , 𝑇 , 𝑟 , 𝜎→ 옵션 가격 간의 비선형 관계를 학습한다. 이때 모델은 기존의 복잡한 수식 없이도, 입력 변수들이 변경되었을 때 옵션 가격이 어떻게 변화할지를 통계적으로 추론
 
+<img width="649" alt="스크린샷 2025-06-23 오전 5 09 55" src="https://github.com/user-attachments/assets/d4d77d21-6e41-4cab-bfda-0b9fed4a01f1" />
+<img width="918" alt="스크린샷 2025-06-23 오전 5 10 09" src="https://github.com/user-attachments/assets/5cac9d0d-312c-4815-a39c-b29fd8513040" />
+<img width="455" alt="스크린샷 2025-06-23 오전 5 10 31" src="https://github.com/user-attachments/assets/ff327700-1665-478a-9417-08413a2e5158" />
 
 
 시뮬레이션 결과 분석
